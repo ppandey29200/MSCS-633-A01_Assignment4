@@ -1,0 +1,13 @@
+Project Name: AutoEncoder Fraud Detection using PyOD
+Author: Pawan Pandey
+Python Version: 3.9
+Dependencies:
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pyod
+Data Source: Kaggle Credit Card Fraud Dataset
+Execution IDE: VS Code
+Model Used: AutoEncoder from PyOD
+Output File: results/output.png
