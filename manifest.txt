@@ -10,4 +10,4 @@ Dependencies:
 Data Source: Kaggle Credit Card Fraud Dataset
 Execution IDE: VS Code
 Model Used: AutoEncoder from PyOD
-Output File: results/output.png
+Output File: output.png

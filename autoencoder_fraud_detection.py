@@ -8,7 +8,7 @@ from sklearn.metrics import classification_report, roc_auc_score
 from sklearn.model_selection import train_test_split
 
 # Load the dataset
-data = pd.read_csv('dataset/creditcard.csv')
+data = pd.read_csv('creditcard.csv')
 print(f"Dataset shape: {data.shape}")
 
 # Data preprocessing
@@ -53,5 +53,5 @@ plt.xlabel('Error Score')
 plt.ylabel('Frequency')
 plt.legend()
 plt.tight_layout()
-plt.savefig("results/output.png")
+plt.savefig("output.png")
 plt.show()
